@@ -55,6 +55,7 @@ You need to have [go](https://go.dev/doc/install) installed
 ```sh
 $ git clone https://github.com/atomone-hub/atomone.git
 $ cd atomone
+$ git checkout $VERSION
 $ make install
 ```
 

@@ -1,4 +1,4 @@
-# validator-community
+# atomone-validator-community
 This repository is community-owned, providing GovGen community validators with a platform to share information, coordinate efforts, and submit pull requests related to the potential future of the AtomOne project.
 
 Validators can utilize this repository as needed. If you’re a validator and would like to contribute to on-going efforts, please open up an issue to be added to the repository. 

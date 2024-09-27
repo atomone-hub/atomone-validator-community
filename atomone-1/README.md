@@ -30,9 +30,9 @@ The `commission-rate`, `commission-max-rate`, `commission-max-change-rate` are r
 atomeoned gentx your-key-name 1000000uatone \
   --node-id $(atomeoned tendermint show-node-id) \
   --chain-id atomone-1 \
-  --commission-rate 0.0 \
-  --commission-max-rate 0.0 \
-  --commission-max-change-rate 0.0 \
+  --commission-rate 0.05 \
+  --commission-max-rate 0.1 \
+  --commission-max-change-rate 0.05 \
   --min-self-delegation 1 \
   --website "https://foo.network" \
   --details "My validator" \

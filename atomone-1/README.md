@@ -38,7 +38,7 @@ atomoned genesis gentx your-key-name 1000000uatone \
 
 ### Install the binary
 
-- You can install the binary from github release page
+- You can install the proposed chain binary from github release page
 
 https://github.com/atomone-hub/atomone/releases/tag/v1.0.0
 

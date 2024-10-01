@@ -14,7 +14,7 @@ This genesis file is of course missing the validators gentxs, which will need to
 
 ## Register in the Genesis
 
-To register your validator node in the `genesis.json` you just need to provide a signed `gentx` with an initial delegation of `1000000uatone`.
+To register your validator node in the `genesis.json` you will need to provide a signed `gentx` with an initial delegation of at least `1000000uatone`.
 To create your own genesis transaction (`gentx`) you will have to choose the following parameters for your validator: `commission-rate` (>=0.05), `commission-max-rate`, `commission-max-change-rate`, `min-self-delegation` (>=1), `website` (optional), `details` (optional), `identity` ([keybase](https://keybase.io) key hash, used to get validator logos in block explorers - optional), `security-contact` (email - optional).
 
 The `commission-rate`, `commission-max-rate`, `commission-max-change-rate` are free to set to the value you want, this values are just for example, note that 0.05 is 5%.
@@ -34,7 +34,7 @@ atomoned genesis gentx your-key-name 1000000uatone \
   --security-contact "security@foo.network"
 ```
 
-## Operate the node 
+## Operate the node
 
 ### Install the binary
 

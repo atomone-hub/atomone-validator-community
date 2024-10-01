@@ -7,7 +7,7 @@
 
 ## Register in the Genesis
 
-To register your validator node in the `genesis.json` you just need to provide a signed `gentx` with an initial delegation of `1000000uatone`.
+To register your validator node in the `genesis.json` you will need to provide a signed `gentx` with an initial delegation of `1000000uatone`.
 
 ```sh
 # Init node

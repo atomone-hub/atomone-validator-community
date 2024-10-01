@@ -4,6 +4,13 @@
 ![version: v1.0.0](https://img.shields.io/badge/version-v1.0.0-green?style=for-the-badge)
 <!-- ![genesis-time](https://img.shields.io/badge/%E2%8F%B0%20genesis%20time-2024--02--27T13%3A00%3A00Z-red?style=for-the-badge) -->
 
+## Proposed base genesis file
+
+The candidate base genesis file resulting from the currently on-chain govgen proposals [1](https://app.govgen.io/proposals/1) and [3](https://app.govgen.io/proposals/3) is available at https://atomone.fra1.digitaloceanspaces.com/genesis.json
+
+This genesis file is of course missing the validators gentxs, which will need to be collected and added to the genesis to be able to launch the chain.
+
+ For more information on how the genesis was built please also look [here](https://github.com/atomone-hub/govbox/blob/master/PROP-001.md).
 
 ## Register in the Genesis
 

@@ -15,20 +15,7 @@ This genesis file is of course missing the validators gentxs, which will need to
 ## Register in the Genesis
 
 To register your validator node in the `genesis.json` you just need to provide a signed `gentx` with an initial delegation of `1000000uatone`.
-
-```sh
-# Init node
-atomoned init your-moniker --chain-id atomone-1
-
-# Create keys, be careful with the mnemonic 👀
-atomoned keys add your-key-name
-
-# Set account necessary balance
-atomoned genesis add-genesis-account your-key-name 10000000uatone
-```
-*NOTE*: if you are submitting a gentx for a new account, (meaning you had to run the command above because the account did not have balance) be aware that you will be granted some funds (including the 1000000uatone required as min self-delegation), enough to pay for fees. The amount above is indicative of the actual amount of funds you will be granted, but the final amount might change.
-
-Then create your own genesis transaction (`gentx`). You will have to choose the following parameters for your validator: `commission-rate` (>=0.05), `commission-max-rate`, `commission-max-change-rate`, `min-self-delegation` (>=1), `website` (optional), `details` (optional), `identity` ([keybase](https://keybase.io) key hash, used to get validator logos in block explorers - optional), `security-contact` (email - optional).
+To create your own genesis transaction (`gentx`) you will have to choose the following parameters for your validator: `commission-rate` (>=0.05), `commission-max-rate`, `commission-max-change-rate`, `min-self-delegation` (>=1), `website` (optional), `details` (optional), `identity` ([keybase](https://keybase.io) key hash, used to get validator logos in block explorers - optional), `security-contact` (email - optional).
 
 The `commission-rate`, `commission-max-rate`, `commission-max-change-rate` are free to set to the value you want, this values are just for example, note that 0.05 is 5%.
 

@@ -1,0 +1,62 @@
+{
+  "body": {
+    "messages": [
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+        "description": {
+          "moniker": "CroutonDigital",
+          "identity": "47B453B80ECFA342",
+          "website": "https:/crouton.digital",
+          "security_contact": "official@crouton.digital",
+          "details": "Your everyday crypto partner"
+        },
+        "commission": {
+          "rate": "0.050000000000000000",
+          "max_rate": "0.100000000000000000",
+          "max_change_rate": "0.050000000000000000"
+        },
+        "min_self_delegation": "1",
+        "delegator_address": "atone14ekxy6xuamq022ueqq3scgmtkxl8xr7lsphc7l",
+        "validator_address": "atonevaloper14ekxy6xuamq022ueqq3scgmtkxl8xr7ljuu358",
+        "pubkey": {
+          "@type": "/cosmos.crypto.ed25519.PubKey",
+          "key": "fGBk6PbUWyKmymSbvGdd4BljYcnMzadTXcDR+K5Dr9g="
+        },
+        "value": {
+          "denom": "uatone",
+          "amount": "1000000"
+        }
+      }
+    ],
+    "memo": "e0d3fc5cdca7dd41a2ff38ede853c5859189f8ed@65.109.83.40:26656",
+    "timeout_height": "0",
+    "extension_options": [],
+    "non_critical_extension_options": []
+  },
+  "auth_info": {
+    "signer_infos": [
+      {
+        "public_key": {
+          "@type": "/cosmos.crypto.secp256k1.PubKey",
+          "key": "Awx1j0mq+dVxn2jdDEQ20MwuBq/Zjr9mbpZdg1FbG3uV"
+        },
+        "mode_info": {
+          "single": {
+            "mode": "SIGN_MODE_DIRECT"
+          }
+        },
+        "sequence": "0"
+      }
+    ],
+    "fee": {
+      "amount": [],
+      "gas_limit": "200000",
+      "payer": "",
+      "granter": ""
+    },
+    "tip": null
+  },
+  "signatures": [
+    "KpZPBuVIxQYdyZ8ZP1XyTw93qlM+jaeazHYIgOHxlGAz3YS7GxXv3Dt9y9XOb9dn05OV4AUvJtF5ipnNjF29QA=="
+  ]
+}

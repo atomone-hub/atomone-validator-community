@@ -15,7 +15,7 @@
           "max_rate": "0.200000000000000000",
           "max_change_rate": "0.010000000000000000"
         },
-        "min_self_delegation": "1000000",
+        "min_self_delegation": "1",
         "delegator_address": "atone17mggn4znyeyg25wd7498qxl7r2jhgue8hpgqzt",
         "validator_address": "atonevaloper17mggn4znyeyg25wd7498qxl7r2jhgue84urfgn",
         "pubkey": {
@@ -24,7 +24,7 @@
         },
         "value": {
           "denom": "uatone",
-          "amount": "10000000"
+          "amount": "1000000"
         }
       }
     ],
@@ -57,6 +57,6 @@
     "tip": null
   },
   "signatures": [
-    "gedCysgLm1UGCNh+vTRd5UiDz0hmso4mOdbVPFTwohRHQ/WVTn0asigH1le8Ol1/XR+1KfD3GrWfbZZL2rtLRw=="
+    "tf3VryX5Ny6PkudtgUBncZOhHZQrON00hyBoGUw7OIpWh6zf7nID0k8pWrSg0oArOlG0t+POtu6zG9CbfVoS9A=="
   ]
 }

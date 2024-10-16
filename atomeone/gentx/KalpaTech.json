@@ -1,0 +1,62 @@
+{
+  "body": {
+    "messages": [
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+        "description": {
+          "moniker": "KalpaTech",
+          "identity": "2ABCBF8F9F31AF0E",
+          "website": "https://kalpatech.co",
+          "security_contact": "info@kalpatech.co",
+          "details": "KalpaTech | Genesis Validator Cosmos Hub | Game of Stakes winner | Services dedicated exclusively for Cosmos Ecosystem | Track record of 5 years in being a reliable and secure validator"
+        },
+        "commission": {
+          "rate": "0.050000000000000000",
+          "max_rate": "0.200000000000000000",
+          "max_change_rate": "0.050000000000000000"
+        },
+        "min_self_delegation": "1",
+        "delegator_address": "atone1w8cs54tjx5yc9hzp0e2pfmde905pr670445zad",
+        "validator_address": "atonevaloper1w8cs54tjx5yc9hzp0e2pfmde905pr670hglth4",
+        "pubkey": {
+          "@type": "/cosmos.crypto.ed25519.PubKey",
+          "key": "cFaDpCZT0+skjW1W91N0SpMS3WJ0qM/a7VIDnYmnhBM="
+        },
+        "value": {
+          "denom": "uatone",
+          "amount": "1000000"
+        }
+      }
+    ],
+    "memo": "d97c2a17abe6e79c7369454f5664b36f6f87b615@78.46.109.146:26656",
+    "timeout_height": "0",
+    "extension_options": [],
+    "non_critical_extension_options": []
+  },
+  "auth_info": {
+    "signer_infos": [
+      {
+        "public_key": {
+          "@type": "/cosmos.crypto.secp256k1.PubKey",
+          "key": "AkeaTnt74kxnTMWbcArRF/OOxB3T+peG0gSImRghiSR/"
+        },
+        "mode_info": {
+          "single": {
+            "mode": "SIGN_MODE_DIRECT"
+          }
+        },
+        "sequence": "0"
+      }
+    ],
+    "fee": {
+      "amount": [],
+      "gas_limit": "200000",
+      "payer": "",
+      "granter": ""
+    },
+    "tip": null
+  },
+  "signatures": [
+    "iPN6zAAwODkO5aqBIcI+Nap1KfFtn9IcvQEBZYjQjmRxL2IX98iq3jc3sn+iyCFmDSt9Wzb1Zf4n1Ou7Xc7OtQ=="
+  ]
+}

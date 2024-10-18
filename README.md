@@ -13,7 +13,8 @@ channel on Discord](https://discord.com/channels/1050058681414340701/10522593039
 
 ## Guide
 
-This guide provides practical information for AtomOne validators: 
+This [guide](./atomone-1/README.md) provides practical informations for AtomOne
+validators.
 
 ### Release
 
@@ -21,16 +22,6 @@ Download the v1.0.0 atomoned binary from https://github.com/atomone-hub/atomone/
 
 ### Proposed base Genesis file
 
-You can download the base genesis file (without the gentxs) at https://atomone.fra1.digitaloceanspaces.com/genesis.json
+You can download the final genesis file at https://atomone.fra1.digitaloceanspaces.com/genesis.json
 
 Other recommendations and useful informations can be found [here](./atomone-1/README.md).
-
-### Other Recommended Steps
-
-Here is a list of recommended tasks that could be beneficial to have as
-completed according to industry best practices:
-- host an explorer like a ping.pub instance and configure it properly
-- register the `atone` address prefix to github.com/satoshilabs/slips ([example](https://github.com/satoshilabs/slips/pull/1687))
-- submit the chain info to keplr-chain-registry ([example](https://github.com/chainapsis/keplr-chain-registry/pull/466))
-- submit the chain info to cosmoschain-registry ([example](https://github.com/cosmos/chain-registry/pull/4000))
-

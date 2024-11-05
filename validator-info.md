@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| AlxVoy ⚡ ANODE.TEAM | https://anode.team | https://x.com/Voynitskiy | Indonesia | https://github.com/Voynitskiy | alxvoy@anode.team | alxvoy | 8CAC1904494187CD59ADF97C91A2971E7C24C13304FB1205B37CD9EF44068471 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

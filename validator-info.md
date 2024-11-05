@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Nodeist | [nodeist.net](https://nodeist.net)  | [@nodeistt](https://x.com/Nodeistt) | Turkey  | [nodeiistt](https://github.com/nodeiistt) | hello@nodeist.net | nodeist | [Link](https://www.mintscan.io/atomone/tx/D8CE39436FEE367D148872F777B5DB1E451A43733C2707FC209186D07C2A0A2D?height=281486) |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

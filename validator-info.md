@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Zuka | zukahub.com | [Zuka](https://x.com/ok7i3) | Russia | [zukaman](https://github.com/zukaman) | sw48264@gmail.com | zuka_116 | [Link](https://www.mintscan.io/atomone/tx/09564B8B3FCFBFF3A84430F2E4BA7289D29B540DB12B9FF2D9BCB89DCFD84FAB?height=291010) |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

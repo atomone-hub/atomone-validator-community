@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Vinjan.Inc  | https://service.vinjan.xyz  | https://x.com/vjanwil  | Indonesia  | https://github.com/vinjan23  | wijaton23@gmail.com  | vinjan.  | https://www.mintscan.io/atomone/tx/0AC19CC7DB8E2938581285A3F27F7D219F331BE4E68E232CC002327322E5385E?height=285349  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

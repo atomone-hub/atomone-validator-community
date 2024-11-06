@@ -10,7 +10,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
+| 0base.vc | https://0base.vc | https://x.com/0baseVC | South Korea | https://github.com/0base-vc | 0@0base.vc | jjangg96 | 8714DD176A227A9F749DF905668E6936CF7CA0FA696B245990823EC071640898 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+|  PathrockNetwork | https://pathrocknetwork.org/  |  https://x.com/pathrock2 | Europe  | https://github.com/paddyson79  | pathrock@protonmail.com  | paddyson  | AC5CEA3B6810D16DF3DD8323FBE1EFFF557FBD60D9F730E968F7DA268BEEBB6B  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

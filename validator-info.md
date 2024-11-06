@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Kleomedes | https://kleomed.es | https://x.com/KleomedesDAO | Europe | kleomedes, tsulhc | marco@kleomed.es | tsulhc ⎮ Kleomedes | 8EAC9853CBFE175DA22D7E30C91191F940DFB56EC8A2CF39FF789A5EA318014E |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| WeStaking | https://www.westaking.io | https://x.com/westaking_io | South Korea | https://github.com/westaking  | admin@westaking.io | westaking | DA5CB94180301B42460C3DBBF5F4EE9EA656A4FB2E2FDFBFB5BBD3925E0C511E |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

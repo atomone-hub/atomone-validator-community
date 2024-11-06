@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+|   silent|  https://silentvalidator.com |  https://x.com/EthExploring |  China |  silentnoname | silentvalidator@gmail.com|  silent666 | 3EFC72DA7A9D1CC25227C46482B684EB1F3AFB1DA2A17258B7140597B65824F5|
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

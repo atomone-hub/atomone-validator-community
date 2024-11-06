@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| 🚀 WHEN MOON 🌕 WHEN LAMBO 🔥 | https://links.whenmoonwhenlambo.money/ | https://x.com/moonwhenlambo | Southern Africa | When-Moon-When-Lambo, woelig | woelig359@gmail.com | whenmoonwhenlambo | B9BEC9D32992A234C97727B84311E338360635C4B96C06969B2912A4F719B534 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

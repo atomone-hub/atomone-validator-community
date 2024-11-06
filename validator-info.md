@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Oneiric Stake  |  | https://x.com/OneiricStake  | Hong Kong  | cougarmaster | admin@oneiricts.com | cougarmaster | 1C9937BDA3A0A99DD4DD1F5FB544E8236FFAB44365B71B9CD90572A92E005451  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+|  Inter Blockchain Services | https://ibs.team  |  https://x.com/IBSvalidator | France  | https://github.com/Inter-Blockchain-Service  | contact@ibs.team  | remiinterblockchainservices,jayinterblockchainservices  |  1F8722DC4DC7EBF1EB279F8A4053CA5AD00E5A35C6135E8BC795070A3860CD27 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

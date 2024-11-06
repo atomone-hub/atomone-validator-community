@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Umbrella | [https://umbrellavalidator.com](https://umbrellavalidator.com) | [https://x.com/umbrellavalid](https://x.com/umbrellavalid) | US | [umbrellavalidator](https://github.com/umbrellavalidator), [gin](https://github.com/gin) | hello@umbrellavalidator.com | dluigi | TBA |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

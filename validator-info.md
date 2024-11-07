@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Forbole | https://forbole.com | https://x.com/forbole | Asia | @forbole, @kwunyeung | validator@forbole.com | @forbole, @kwunyeung, @musa133796 | 79DDD77D8E38210794EFC4CB80C00A9A3BF6CADAC47CE04BCDD33F22EC01C977 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| DragonStake  | [DragonStake](https://dragonstake.io) | [@DragonStake](https://x.com/dragonstake) | Spain | dragonstake, derfredy | info@dragonstake | gufete_dragonstake, derfredy, jesusperezcryptoplaza | 47757F93C738231639D778C19F26E80E44E7201EABC05774FA831ECB8665D010 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

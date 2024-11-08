@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| plantree  | https://plantree.org  | -  | Belarus/Eastern Europe  | https://github.com/plantree-validator  | contact@plantree.org | upnp | https://www.mintscan.io/atomone/tx/8E132EF5E52652B27001D13C88EF6534A0CE51231BA1B70C2F320C751FF60815 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Simply Staking  | https://simplystaking.com/ | https://x.com/SimplyStaking | Malta | Bonavia55 DanielMagro97 frangrech | staking@simplystaking.com | aaronsimply frangre danielsimplystaking | 39E534382BAE3899927CD73519A7117D58483F3C5C79F80EB85B3FA17952E857 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

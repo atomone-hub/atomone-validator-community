@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Foxinodes | https://foxinodes.net | https://x.com/foxinodes | Europe | @FoxinouFR | validator@foxinodes.net | @foxinoufr | F1D05E0697FE69101846083E143A8A50BBF9C6DDF2D4677FDAE9FBB57C09A56C |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Cogwheel ⚙️  | https://cogwheel.zone  | https://x.com/cogwheel_val  | Europe/Serbia  | https://github.com/Cogwheel-Validator | info@cogwheel.zone  | Kamikaza 731 \| Cogwheel ⚙️ | https://www.mintscan.io/atomone/tx/32F5268FF2866BA2269144800740F9BED8ED66234CBCB98A6D79EEFE06862042?height=349219  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

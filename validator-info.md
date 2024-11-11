@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Scafire Node 5% Fee REStake ❤️ | https://linktr.ee/scafire_node | https://x.com/scafirenode | Canada | RooiKreef | scafirenode@gmail.com | rooikreef | AA209B91EDF76149B3F2C1FBF4F565600801F4267A114515C4F2A74C34A2435D |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

@@ -7,6 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
+🔥 BIERFORGE ⚒ 🔥 REStake|https://bierforge.com|https://twitter.com/@bierforge|South Africa|BierForge|bierforge@outlook.com|BIERFORGE(honcho_404)|FA2AA275F2CCCF0B4A27BAC7FBA09D9B0337A7BC775B22ACF700C742BA6CF21F
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

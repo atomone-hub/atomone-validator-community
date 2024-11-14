@@ -7,12 +7,12 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
+| POSTHUMAN  | https://posthuman.digital/  | https://x.com/POSTHUMAN_DVS  | Planet Earth  | https://github.com/Validator-POSTHUMAN/  | validator@posthuman.digital  | antropocosmist  |   |
+|   |   |   |   |   |   | albertopentstaking  |   |
+|   |   |   |   |   |   | web34ever  |   |
+|   |   |   |   |   |   |  cyberg |   |
+|   |   |   |   |   |   | write2sd  |   |
+|   |   |   |   |   |   |  posthuman_validator |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

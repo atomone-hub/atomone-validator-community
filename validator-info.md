@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+|  LuckyStar | https://www.luckystar.asia  | https://x.com/LuckyStar_Asia  | Germany  | https://github.com/LuckyStarAsia  | aluckystarasia@gmail.com  | luckystar.asia  | BFCBFC5E629932646D27C17CEDCE3E6AD8EE1E805EE95023A79FCE385B0A66C9  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

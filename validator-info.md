@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+|  Provalidator | https://provalidator.com/  |  https://x.com/Provalidator |  South Korea |  https://github.com/provalidator | business@provalidator.com, zenon@provalidator.com, simon@provalidator.com, brian@provalidator.com  |  provalidator, zenon_provalidator, richard_provalidator, simon_provalidator, brian_provalidator |  1BC771313D23E38AEBBF92DAA0D531A90206F5A4FB827310DDAC166C8CEB6F58 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

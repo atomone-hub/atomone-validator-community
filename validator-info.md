@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Silk Nodes  | https://silknodes.io/  | https://twitter.com/silk_nodes  | Ireland & USA  | https://github.com/Silk-Nodes  | info@silknodes.io  | "Bosco | Silk Nodes & .Mud | Silk Nodes"  | 7BAA2AFAE30279C61A751142308C0EF0E8D9A873EE04019F34CA4C97979CE58B  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

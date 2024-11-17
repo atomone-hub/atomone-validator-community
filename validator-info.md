@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Moonkitt  | https://moonkitt.com  | [moonkitt_lab](https://x.com/moonkitt_lab)  | France & Vietnam  | [moonkitt-lab](https://github.com/moonkitt-lab)  | operations@moonkitt.com  | arlai_mk & victor9332  | [FEF35DE0D3FF4C37A53FBD939850E29B79D4FBB6C200CED5284104A4310313F6](https://www.mintscan.io/atomone/tx/FEF35DE0D3FF4C37A53FBD939850E29B79D4FBB6C200CED5284104A4310313F6)  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

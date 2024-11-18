@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| NyanCat  | https://x.com/o___victor  | https://x.com/o___victor  | Ukraine  | https://github.com/VictorOsipchuk  | onemoment1760@gmail.com  |  nyancat007 | D0BB9A6894FFDEF32CB6FDC60FEC9535C19C15AAF3CF992B4A1D1E5206D7ECD1  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

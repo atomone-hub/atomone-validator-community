@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| tRDM I Nodera  | https://nodera.tech  |  https://x.com/tRDM_2598 |  Moldova | https://github.com/terdim28/  | terdim28@gmail.com  |  trdm |  34FB57C338ADA39E752D0A84942C40A84A1E148F4756533A3A7BED0EC782904E |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

@@ -7,5 +7,5 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-| Neta DAO | https://netadao.zone  | x.com/Neta_DAO | Canada | Poroburu  | academy@netadao.zone | Poroburu lild. |   |
-
+| Neta DAO | https://netadao.zone  | https://x.com/Neta_DAO | Canada | Poroburu  |  | Poroburu |   |
+|   |  |  |  |  | academy@netadao.zone | lild. |   |

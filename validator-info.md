@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-| Crosnest  | https://cros-nest.com  | https://x.com/crosnest_com  | Europe  | crosnest, Galadrin  | chainmaster@cros-nest.com, dapie@cros-nest.com | galadrin_crosnest  | D1B5A9E0C48E51F43B076714CA36B35CF5B099E3CDD1630904C66E9922C47EA9  |
+| Crosnest  | https://cros-nest.com  | https://x.com/crosnest_com  | Europe (The Netherland) | crosnest, Galadrin  | chainmaster@cros-nest.com, dapie@cros-nest.com | galadrin_crosnest  | D1B5A9E0C48E51F43B076714CA36B35CF5B099E3CDD1630904C66E9922C47EA9  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

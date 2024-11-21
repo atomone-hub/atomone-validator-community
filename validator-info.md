@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| GATA HUB  | https://gatahub.zone  | https://twitter.com/GataHubZone https://twitter.com/GataDaoZone  | Germany UAE | JoveCosmos ABCharlieEth  | jovecosmos@gmail.com gatadaozone@gmail.com  | jovegatadao wassieofgata  | E2FBBA2712037883BFCCCCA39D858E6C6F4D6764B433D4159816649AAC1B0CB8  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

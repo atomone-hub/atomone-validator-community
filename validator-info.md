@@ -7,6 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
+| VALIDARIOS    |  https://validarios.com/  | @VALIDARIOS  | Europe  | https://github.com/ValidarIOS  | validarios.com@gmail.com  | @validarios  |  https://www.mintscan.io/atomone/tx/8624442BEC6AE892769BE46913DF15169AEB91F8738F4B719A1E9FAEC34F7B7E?height=289658 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
@@ -78,10 +79,4 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
+|   |   |   |   |   

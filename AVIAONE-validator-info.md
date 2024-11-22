@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| AVIAONE.com 🟢  | https://aviaone.com  | https://x.com/avia_one  | France and Thailand  | https://github.com/aviaone  | atomone@aviaone.com  | @aviaone and @community_aviaone  | https://www.mintscan.io/atomone/tx/74D0D1052E9F7150D3FE431886D7759C3DE73C34B42F5FBAF4ECC67744909EC0  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Regenerator  | https://regenerator.online  | @Regenerator_  | UK  | p3t3hill  | contact@regenerator.online  | pete_regenerator  | 765498F2B00A5DDB34BAEB9D68D8130FC8B5F89905129F7AC2A5FC8B05A14295  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

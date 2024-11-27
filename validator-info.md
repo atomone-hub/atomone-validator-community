@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|Noderunners|http://noderunners.biz|https://x.com/noderunners|Europe|rewseRE|info@noderunners.biz|rewse|190AAE993EAE3BAFD7E8A8BDF8ACA0EC8A519A074AD8225BFC0942644AA197B5|
+|Noderunners|http://noderunners.biz|https://x.com/noderunners|Netherlands|rewseRE|info@noderunners.biz|rewse|190AAE993EAE3BAFD7E8A8BDF8ACA0EC8A519A074AD8225BFC0942644AA197B5|
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

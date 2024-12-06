@@ -8,7 +8,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
 |   |   |   |   |   |   |   |   |
-|  cunum | https://cosmos.cunum.com | [@CunumStaking](https://x.com/CunumStaking) |  EU | cunum | staking@cunum.com | cunum_04458 | 9F6CC413787149F8DD6789CDB45ED9B4558A33A66ECE349FDD4FDE4197993C42 |
+|  cunum | https://cosmos.cunum.com | [@CunumStaking](https://x.com/CunumStaking) |  Germany | cunum | staking@cunum.com | cunum_04458 | 9F6CC413787149F8DD6789CDB45ED9B4558A33A66ECE349FDD4FDE4197993C42 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

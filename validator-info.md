@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|  Nodes Hub 🛡️ 100% Slash Protected 🛡️ | Nodes Hub 🛡️ 100% Slash Protected 🛡️  | https://x.com/Nodes_Hub  | India, Dubai, Singapore  | https://github.com/NodesHub  | contact@nodeshub.online  | nodeshub  | E8BD20CD829849348F5063AD68C7A7B94873E58C20AF56DF52AA58251BDC6D36  |
+|  Nodes Hub 🛡️ 100% Slash Protected 🛡️ | https://nodeshub.online  | https://x.com/Nodes_Hub  | India, Dubai, Singapore  | https://github.com/NodesHub  | contact@nodeshub.online  | nodeshub  | E8BD20CD829849348F5063AD68C7A7B94873E58C20AF56DF52AA58251BDC6D36  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

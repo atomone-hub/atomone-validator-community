@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| CrowdControl | https://crowdcontrol.network/ | CrowdControlNet | Germany | valNodeOne | blockpresse@proton.me | flo_0321 | 4AD5BAB06A47829372C0379E1A01516848A147061EB5106F62D53C99C246BA2F |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| UTSA  | https://utsa.gitbook.io/services  | https://x.com/lesnik13utsa  | Armenia  | lesnikutsa  |  lesnik13utsa@yandex.ru | lesnik_utsa  | 88C719C330ACB5B639C8A63B4A105DD86C2969C5F000187E41A2946DC636AA0F  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

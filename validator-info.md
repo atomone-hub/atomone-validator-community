@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-| 🔥STAVR🔥 | https://stavr.tech/  | n/a  |  PL | https://github.com/111stavr111  | stavr.tech@gmail.com  | 1stavr1  |  D43A727023052744B7639E55B1F28DC827002385598D8F155383DD53AC01A00B |
+| 🔥STAVR🔥 | https://stavr.tech/  | n/a  |  Poland | https://github.com/111stavr111  | stavr.tech@gmail.com  | 1stavr1  |  D43A727023052744B7639E55B1F28DC827002385598D8F155383DD53AC01A00B |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

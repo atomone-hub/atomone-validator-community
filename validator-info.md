@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+|  Indonode | https://indonode.net/  |  https://x.com/indonodev |  Indonesia | https://x.com/indonodev  |  contact@indonode.net |  indonode |  772786FBE4F1B4EE6D6980A252553D354FC7512D4E86840E97331ABC7DA37486 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

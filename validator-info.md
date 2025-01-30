@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| StakeUp  | https://stakeup.tech |https://x.com/stakeup_tech | Ukraine | https://github.com/landerosua  | contact@stakeup.tech  | landeros | E913ED3A453DDE22A39D9798000B85CE1F5E895B4AF1C115C0E72B0CB297770B |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

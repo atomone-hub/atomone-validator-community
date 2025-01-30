@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| SECARD | https://secardnode.com | https://x.com/SECARDnodE | Turkey | https://github.com/secard51 | info@secardnode.com | secard | FC29963E9F6BDE5065DC7D6AFF9B21757400DD35F78ABB406F78D88AAE5E9C79 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

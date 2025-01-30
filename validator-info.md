@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| ITRocket  | https://itrocket.net  | https://x.com/itrocket_team  | Armenia  | itrocket-team  | ops@itrocket.net  | itrocket  | A336AAF04FEF3D6C00086C641DCB6160ACEEE5AFCCDAFF2B3A511F0369B2539F  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

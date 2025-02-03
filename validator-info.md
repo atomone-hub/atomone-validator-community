@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+|bitszn | valopers.com   | https://valopers.com  | https://x.com/bitszn_com  | Asia  | alxnode  |  info@valopers.com |  alxbitszn | 9C17D09499C2CE07D87C21FB9E2EA2D6C08CC1EC501B0E8F7CA427AAE4B3B100  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

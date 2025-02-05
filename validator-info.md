@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Shire  | https://x.com/shirestaking  | https://x.com/shirestaking  | UAE  | https://github.com/Bilboshire  | shirestaking@gmail.com  | mazicosmos  | 0508435D849AF264618C9B6393915326803778B830172591ABF44459808A6FA1  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

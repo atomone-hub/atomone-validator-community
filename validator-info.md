@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| HEXXAGON | https://www.hexxagon.io | https://x.com/hexxagon_io | Canada | hexxagon-io | support@hexxagon.io | echel0n_hx | https://www.mintscan.io/atomone/tx/C77A90AA1552C3E94A29445EF212517CDAF7925F58AFD9AC50C22AF1625A390F |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

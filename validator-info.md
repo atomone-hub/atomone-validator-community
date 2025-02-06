@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| ChainTools  | https://chaintools.tech  | https://x.com/ChaintoolsT | Poland | qf3l3k, ChainTools-Tech  | contact@chaintools.tech  | qf3l3k_chaintools  | 049FCD38B8AC27E59A5AE33191AEB591CE7D53F5AC59C415C0EC45A7AF77876F  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

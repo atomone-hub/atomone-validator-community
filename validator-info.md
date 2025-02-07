@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Akat|Suki  | http://www.akatsukinodes.com/  |  https://x.com/AkatsukiNodes | Singapore  | https://github.com/akatsuki-nodes  | akatsuki.nodes@gmail.com  | akatsukival  |  EC8592084BD82F2699A5C08A5C3F6BCEEC12EF93E7F045AA684A6604A7866ABC |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

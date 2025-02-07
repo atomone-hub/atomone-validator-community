@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-| Tecnodes  | www.tecnodes.network  |  https://x.com/TecnodesNetwork |  Europe |  tecnodes-network |  tecnodes.network@gmail.com |  tecnodes |  https://explorer.tecnodes.network/atomone/tx/988853E9AC65FAFB24EEDA058E6C45E431CD070ABF3F001CC98460A520371537 | 
+| Tecnodes  | www.tecnodes.network  |  https://x.com/TecnodesNetwork |  Estonia |  tecnodes-network |  tecnodes.network@gmail.com |  tecnodes |  https://explorer.tecnodes.network/atomone/tx/988853E9AC65FAFB24EEDA058E6C45E431CD070ABF3F001CC98460A520371537 | 
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

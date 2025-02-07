@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| HazenNetworkSolutions  | https://bento.me/hazen  | https://x.com/haznftofficial  | Turkey  | https://github.com/hazennetworksolutions  | haznftofficial@gmail.com  | hazentr  | 6130CEBA5E197BFD6E8036E5CE6AC65C14A194EE3F1A120A5D88F05D297F03BE  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| RPCdot.com  | https://rpcdot.com  |  https://x.com/rpcdot |  Turkiye | https://github.com/RPCdotcom  | contact@rpcdot.com  | kriptouzman  | 2EBB21BA319D5DF4DA36BD8212F39D411D187B44D6908D0D17477895B3AA8321 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

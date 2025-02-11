@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+|owlstake|https://owlstake.com|https://x.com/owlstake|Vietnam|https://github.com/owlstake|work@owlstake.com|owlstake|21B74BA17A5A3BB72F8349610EEC77F05B3082A936FA0FB04F5DA5EFE524020E|
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

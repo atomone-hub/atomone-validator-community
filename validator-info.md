@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+|MurphyNode|https://murphynode.com|https://x.com/Murphy_Node|Vietnam|fat-murphy, Murphylabs2024|gnoud.ur1@gmail.com, murphynodeteam@gmail.com|gnoudur1, di_murphynode|43A6036C20DBF2B93E0D62441351C354A7D52DD5478B3A2C57CB57E1F7BD6B22|
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

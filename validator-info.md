@@ -8,7 +8,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
 |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
+| Revonode  | https://revonode.xyz  | https://x.com/revonode_xyz  | Indonesia  | @revonode  | hi@revonode.xyz  | revo_o  | 354BBAAD106466114E14D51EDAECCC6DCF1A41EBFE46F3D0C9F2E93A9183C050  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

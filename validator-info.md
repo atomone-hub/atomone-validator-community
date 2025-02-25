@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| CosmicNode  | [cosmicnode.zone](https://cosmicnode.zone/)  | https://x.com/_CosmicNode  | EU  | Cosmic-Node  | support@cosmicnode.zone  | gilgalidd  |  419F0B362ED2268F5D76FC361194BBF33017D2EDF7F6AB0E5F960090B0AA7E60 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| NodeRuneR|   |   https://www.noderuner.xyz |  https://x.com/mytolqa |  Turkey |  https://github.com/mytolga | info@noderuner.xyz  |  B8571BB8A75AC06F21CB63F03EA0C4F1E3152589BB71E4EBB4F09A45A00B9BFF |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

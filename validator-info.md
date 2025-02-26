@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| KalpaTech  | https://kalpatech.co  | https://x.com/@kalpa_tech  | Romania  | kalpatech-team  | info@kalpatech.co  | goldelkalpatech  | B9FA2A7F3DD14DDCA582A86B111AE2C2DB3F0737DD78610141A6F1B365A3D88C  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

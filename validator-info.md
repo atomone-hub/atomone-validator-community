@@ -6,7 +6,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 | Name of Validator (name and moniker used for the AtomOne chain)  | Validator Website | Validator Twitter Page  | Region or Country where your validator operates  | Validator Team's GitHub handle (Organization) or individual GitHub handles (list all those involved with your Validator that will be participating in AtomOne activities)  | Validator Contact E-mail (Organization) or individual E-mail addresses  (list all those involved with your Validator that will be participating in AtomOne activities)  | Validator Team's Discord handles  (list all those involved with your Validator that will be participating in AtomOne activities)  | Transaction Hash link (TX Hash link) sent to any ATONE address to prove affiliation of discord users with your validator.  |
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
-| 79anvi  | https://79anvi.com/ | 79anvi | Europe | 79anvi | 79andvik@gmail.com | buktapabu4 | DD19D18B406D3DCD4080091280BD2EA36609BB8922A1CA1C3759ED9664FE54FA |
+| 79anvi  | https://79anvi.com/ | 79anvi | Poland | 79anvi | 79andvik@gmail.com | buktapabu4 | DD19D18B406D3DCD4080091280BD2EA36609BB8922A1CA1C3759ED9664FE54FA |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

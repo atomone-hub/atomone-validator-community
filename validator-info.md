@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Cosmostation  | https://www.cosmostation.io/  | https://x.com/CosmostationVD  | NA | carameleon | node@stamper.network  | jeonghwan.park, heejekim,jeongseup,yeoungil,farkhod_abdukodirov,liligotit,jaypark82,mariano080954, Anthony_Cosmostation  | https://www.mintscan.io/atomone/tx/91FDA5E89C695170E65AE493777E4533ACCFCBBCC0D50821175692EB37A84222?height=2015103  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

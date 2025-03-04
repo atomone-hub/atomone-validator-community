@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| SG-1  | https://sg-1.online  | https://x.com/sg1_online  |  Central Europe | @toschdev, @clydedevv  | tosch@sg-1.online, clyde@sg-1.online  | toschdev, clyd_dev  | 6AFE5D96895E94A6D2DDD5CF5D8D0307470A27E620AD6830217B8CB97439AF82  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

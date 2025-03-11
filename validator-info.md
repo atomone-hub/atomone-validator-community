@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| AutoStake  | https://autostake.com  | https://x.com/AutoStake_  | UK | https://github.com/AutoStake-com | support@autostake.com  | autostake | https://www.mintscan.io/atomone/tx/AC7D69DB89767A0D965493D9B4966D7F7BE833E72B3FF9BF6D30740608BA3235  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

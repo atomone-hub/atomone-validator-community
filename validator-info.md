@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Citizen Web3    | https://www.citizenweb3.com  | https://x.com/citizen_web3  | Madeira  | @alibabaedge, @serejandmyself  | shafetovarrow@gmail.com, citizenweb3@protonmail.com  | alibabaedge, serejandmyself_citizenweb3  | E37E70E0224C473A456BA33302C47FC27A93E8BEFD30D68B578D78E4BAA80D06  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| ECO Stake 🌱 | REStake.app | https://ecostake.com | https://x.com/eco_stake | Germany | eco-stake | support@ecostake.com | ecostake | 08DC4DA4E336F8F23959F1598ED5293E6DFBD72529638EF0B1E50106F83306DB |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

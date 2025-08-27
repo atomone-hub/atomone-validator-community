@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Simply Staking | https://simplystaking.com/ | https://x.com/SimplyStaking | Malta | lvc086 frangrech DanielMagro97 | staking@simplystaking.com | lukevcsimplystaking frangre danielsimplystaking | 2AFB09011033C0637CB636DD9217F8A267AC48D10999EC51588B498288395564 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

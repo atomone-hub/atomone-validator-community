@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+|  dnsarz | https://dnsarz.xyz  | https://x.com/aidilfahmii  | Indonesia  | http://github.com/aidilfahmi  | dnsarz@gmail.com  | dnsarz  | https://www.mintscan.io/atomone/tx/87819DE3A24C36D3FDB2B9C47D73F5E12EC0DBDA5DA734D55CF8FFA800EB410A  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

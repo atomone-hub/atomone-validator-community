@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| openbitlab | https://openbitlab.com/ | https://x.com/Openbitlab_node | Italy | openbitlab2 | openbitlab@gmail.com | openbitlab lu191 dakk_k | CDCEF3C111E5F72E8DC987632B8C27CCBE4B984CBA741CD910A695C6B3419C0B |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

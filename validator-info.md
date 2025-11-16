@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Curiosity Nodes 🪐 | curiositynodes.cc | https://x.com/Curiosity_Nodes | UAE  | dubious-tom  | hi@curiositynodes.cc  | khanabadosh.  | D3988693DB8DB665237D2508DC8AC2D423D3686F166CEA6FEC3EBAAAF8339148  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Winnode | https://winnode.xyz | https://x.com/winnode | Austria | https://github.com/winnode | winnodex@gmail.com | winnode | https://www.mintscan.io/atomone/tx/97563ABF6D1DB91130F7BBCE94713C3EF92F175DC0CAD134CF7B001650FE298A?height=5939404 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

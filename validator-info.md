@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+|OneNov|https://onenov.xyz|https://x.com/Surya021292|Indonesia|https://github.com/OneNov0209|onenov0209@gmail.com|suryaone|D35CCE514197D973A54ACDA736B309D58142B5EAF8E1391F9A8CBCFF349E1779|
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

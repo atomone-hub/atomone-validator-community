@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+|BlockSync   |https://blocksync.me   |https://x.com/tiendat247   |Vietnam   |https://github.com/0xblocksync   |tiendat247@gmail.com   |blocksync   |https://www.mintscan.io/atomone/tx/79A9B9DA7CC48C5ECC1B11BB9C7D257F6F9AF47B258EE9F891DD8167D9698F6C   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

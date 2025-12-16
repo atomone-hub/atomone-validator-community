@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-| Onbloc Node | https://onbloc.xyz | https://x.com/onblocxyz | South Korea | seokheejang, js712 | shjang@onbloc.xyz, js712@onbloc.xyz | dao6320, jsjs4390 | BBE235194E4F0052FB26BA3FC97DD78E7B76639C7E0C122A1DD867ACBBD0F995 |
+| Onbloc Node | https://onbloc.xyz | https://x.com/onblocxyz | South Korea | js712, hwiwon.sean | js712@onbloc.xyz, hwiwon.sean@onbloc.xyz | jsjs4390, seanj777_69654 | DED8998359F4AB5D6690003A72CC0F7A1D14E74B98A7CE411D53097E72631747 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

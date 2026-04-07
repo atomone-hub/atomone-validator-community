@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Onbloc Node | https://onbloc.xyz | https://x.com/onblocxyz | South Korea | gihun508443,jinoosss | eddie@onbloc.xyz,jwchoi@onbloc.xyz | reiejd,jinoosss | 6299E553B53125B0177A3620167589D2542A1F5D887A68DBFD68774B46C46681 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

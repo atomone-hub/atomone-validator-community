@@ -81,6 +81,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 | openbitlab | https://openbitlab.com/ | https://x.com/Openbitlab_node | Italy | openbitlab2 | openbitlab@gmail.com | openbitlab lu191 dakk_k | CDCEF3C111E5F72E8DC987632B8C27CCBE4B984CBA741CD910A695C6B3419C0B |
 | HusoNode | https://husonode.xyz/ | https://x.com/husonode | Finland | aksamlan | contact@husonode.xyz | aksamlan | https://www.mintscan.io/atomone/tx/01B848DFCD11859C383DA5470382F5A7579776169F4C0335D91E29C6DDA5BF72?height=5942318 |
 | Onbloc Node | https://onbloc.xyz | https://x.com/onblocxyz | South Korea | jinoosss,wookja-0 | jwchoi@onbloc.xyz,wj.jung@onbloc.xyz | jinoosss,wj5445 | EAFC99F73D8E4A2A0003F9BA6BF9BBA05EBC107F83DF2B5B91A2757024391C2E |
+| Roomit  | https://stake.roomit.xyz  | https://x.com/roomit_xyz  | Indonesia | https://github.com/roomit-xyz   |  admin@roomit.xyz  |  @luneareth | https://www.mintscan.io/atomone/tx/EC39AA92FF4EA5C46E82AB024F629C665DB166CF26540AF0FC9E8A9CCB73B351?height=9688228 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

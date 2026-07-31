@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|  KaLaMuC |  https://www.kalamuc.xyz/ | https://x.com/sooneraydin  |  Finland | sooneraydin  | fndkaydn@gmail.com  | kalamuc  | 0FD46BE9DAAADAEEA364944EC14D96779E60C4F0854B9819E158F530C494121D  |
+|  KaLaMuC |  https://www.kalamuc.xyz/ | https://x.com/sooneraydin  |  Finland | sooneraydin  | soneraydin85@gmail.com  | kalamuc  | E4CD064383E202EF6DCB1DADB8431F7D581711E7FF2EE72D1AF8489D12A32AF7  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

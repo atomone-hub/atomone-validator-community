@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|  OshVanK      | https://oshvank.com  | https://x.com/Beyaz_Zenci_06  | Turkey  | https://github.com/Edsny1  | tech@oshvank.com  | yahya6935  | 	36A9A5BD162AD815EAB7634B3323B8D7A3F2C4F97CFB9893D68C2DCBAF48830D  |
+|  OshVanK      | https://oshvank.com  | https://x.com/Beyaz_Zenci_06  | Turkey  | https://github.com/Edsny1  | tech@oshvank.com  | yahya6935  | 	E321CFCAD0E4FC16CEB3DA51794C6E3DBB5B724FE97779D6C1D6D5386AA6AEC9  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

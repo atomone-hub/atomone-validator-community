@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Stella  |  https://twitter.com/StellaNodex | https://twitter.com/StellaNodex  | Malta  | https://github.com/StellaNodeX/  |  stellanodex@gmail.com | stellanode  | 437CF6F40AB63B2B07765A8DC22821E51BCBABBD34CAA72B2A14413C6E182C26  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

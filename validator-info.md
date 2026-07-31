@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|  MictoNode      | https://mictonode.com  | https://x.com/onurnft0  | Turkiye  | https://github.com/mictonode  | mictonode@protonmail.com  | mictonorom  | 	4E77C66F1FF92038DA58519B6D92A84AC27400A07680EB1ADD4D2CE55F97F10B  |
+|  MictoNode      | https://mictonode.com  | https://x.com/onurnft0  | Turkiye  | https://github.com/mictonode  | info@mictonode.com  | mictonorom  | 	86D8A9D141DC9DA06D21D1250E6B4E6A26D953E64CFECD16CC68768D8E2EF28E  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

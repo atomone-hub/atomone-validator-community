@@ -106,3 +106,4 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
+| catsmile | https://www.catsmile.cloud | https://x.com/catsmileproject | New York, USA | https://github.com/catsmile100/atomone-validator-community | catsmile91@gmail.com | th3mi#0000 | A33B66EFCEBE90622059BFED58BD92F15B04409D4F6CFE48DD5412D90A2FA49C |

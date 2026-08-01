@@ -84,7 +84,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 | HazenNetworkSolutions | https://www.hazennetworksolutions.com/ | https://x.com/haznftofficial | Turkey | https://github.com/hazennetworksolutions | haznftofficial@gmail.com | hazentr | 232DFCCBD59B8F453C7D0AA5CB483CF6171A675FDF407478F9B66593667EC467 |
 | linkednode | https://stake.linkednode.xyz | https://x.com/linked_node | Indonesia | https://github.com/linkednode | linked.node09@gmail.com | linked.node | 936E91699370CA39A97568FD72DF338533DC1F2F2B21558425346C9701498EFF |
 | Roomit  | https://stake.roomit.xyz  | https://x.com/roomit_xyz  | Indonesia | https://github.com/roomit-xyz   |  admin@roomit.xyz  |  @luneareth | https://www.mintscan.io/atomone/tx/EC39AA92FF4EA5C46E82AB024F629C665DB166CF26540AF0FC9E8A9CCB73B351?height=9688228 |
-|   |   |   |   |   |   |   |   |
+| MictoNode | https://mictonode.com | https://x.com/onurnft0 | Turkiye | https://github.com/mictonode | info@mictonode.com | mictonorom | 86D8A9D141DC9DA06D21D1250E6B4E6A26D953E64CFECD16CC68768D8E2EF28E |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |

@@ -3,7 +3,8 @@ This is a form intended to compile all of the information available from the cur
 In order to verify the team members of your validator, please send a 0.01 ATONE transaction from your AtomOne validator account with the Discord handles of those from your team you would like to represent your validator in an official capacity on the AtomOne (Unofficial) Discord channel, and be given the official "validator" role ( the Discord handles will be written in the memo field of the transaction). The transfer can be done to any existing ATONE address, with the requirement that the TX Hash link ( transaction hash link) needs to be provided to this form as to match the identity of your validator to the team members working for your validator.
 
 
-| Validator Name  | Validator Website | Validator Twitter Page | Country | GitHub Handles | E-mails | Discord Handles | Tx Hash |
+| Validator Name | Validator Website | Validator Twitter Page | Country | GitHub Handles | E-mails | Discord Handles | Tx Hash |
+|---|---|---|---|---|---|---|---|
 | Stella  |  https://twitter.com/StellaNodex | https://twitter.com/StellaNodex  | Malta  | https://github.com/StellaNodeX/  |  stellanodex@gmail.com | stellanode  | 437CF6F40AB63B2B07765A8DC22821E51BCBABBD34CAA72B2A14413C6E182C26  |
 | CroutonDigital | https://crouton.digital | https://x.com/CroutonDigital | Latvia | https://github.com/CroutonDigital | official@crouton.digital | romanv1812, crouton.digital, ak32821 | https://www.mintscan.io/atomone/tx/923002A0B93CFAD5F822841B794557D906F126BB7B4631EA80D0D12BA0823736?height=2017570 |
 | equinoxDAO | https://www.equinoxdao.xyz | https://x.com/EquinoxDAO | U.K. | https://github.com/Equinox-DAO | wangzhaozhu1@gmail.com | samwang_ | E8487EB3F077315C09B16DC3B64181F2E84993B8EB3986BED39F1163A4865BAF |
@@ -83,4 +84,6 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 | Roomit  | https://stake.roomit.xyz  | https://x.com/roomit_xyz  | Indonesia | https://github.com/roomit-xyz   |  admin@roomit.xyz  |  @luneareth | https://www.mintscan.io/atomone/tx/EC39AA92FF4EA5C46E82AB024F629C665DB166CF26540AF0FC9E8A9CCB73B351?height=9688228 |
 | MictoNode | https://mictonode.com | https://x.com/onurnft0 | Turkiye | https://github.com/mictonode | info@mictonode.com | mictonorom | 86D8A9D141DC9DA06D21D1250E6B4E6A26D953E64CFECD16CC68768D8E2EF28E |
 | OshVanK | https://oshvank.xyz | https://x.com/Oshvank | Turkey | https://github.com/Edsny1 | worms_ss@hotmail.com | yahya6935 | E321CFCAD0E4FC16CEB3DA51794C6E3DBB5B724FE97779D6C1D6D5386AA6AEC9 |
+| AVIAONE.com 🟢 | https://aviaone.com | https://x.com/avia_one | France and Thailand | https://github.com/aviaone | atomone@aviaone.com | @aviaone and @community_aviaone | 190107B99A228CC167C866E48EE4C7143BD613FE138736907127D9EF5C9D3413 |
+| Sychonix  |  https://sychonix.com | https://twitter.com/sychonixx  | Indonesia  | https://github.com/sychonix  |  sychonixx@gmail.com | sychonix  | 4840409F6222A17337339B415D9EA1B71374DEE97CC5A2BFDE7F2D2AC5EA8641  |
 | kgnodes |  https://kgnodes.xyz/ | https://x.com/kgnodes  | Europe  | https://github.com/kgnodes-val  | hello@kgnodes.xyz  | kgnodes  |  A1062688ED68046BDAC25DB32053FC49E9D31D1AEDECF970F504E020CF6B478E |

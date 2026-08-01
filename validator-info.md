@@ -88,3 +88,4 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 | OshVanK | https://oshvank.xyz | https://x.com/Oshvank | Turkey | https://github.com/Edsny1 | worms_ss@hotmail.com | yahya6935 | E321CFCAD0E4FC16CEB3DA51794C6E3DBB5B724FE97779D6C1D6D5386AA6AEC9 |
 | AVIAONE.com 🟢 | https://aviaone.com | https://x.com/avia_one | France and Thailand | https://github.com/aviaone | atomone@aviaone.com | @aviaone and @community_aviaone | 190107B99A228CC167C866E48EE4C7143BD613FE138736907127D9EF5C9D3413 |
 | Sychonix  |  https://sychonix.com | https://twitter.com/sychonixx  | Indonesia  | https://github.com/sychonix  |  sychonixx@gmail.com | sychonix  | 4840409F6222A17337339B415D9EA1B71374DEE97CC5A2BFDE7F2D2AC5EA8641  |
+| Cogwheel ⚙️  | https://cogwheel.zone  | https://x.com/cogwheel_val  | Serbia  | Cogwheel-Validator, nman98 | info@cogwheel.zone  | kamikaza731 | 32B6220E1CB11D0066791174DCBDB2B8392A1170A75B6DA53FDAB9452EF67C4C  |

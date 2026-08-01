@@ -89,3 +89,4 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 | AVIAONE.com 🟢 | https://aviaone.com | https://x.com/avia_one | France and Thailand | https://github.com/aviaone | atomone@aviaone.com | @aviaone and @community_aviaone | 190107B99A228CC167C866E48EE4C7143BD613FE138736907127D9EF5C9D3413 |
 | Sychonix  |  https://sychonix.com | https://twitter.com/sychonixx  | Indonesia  | https://github.com/sychonix  |  sychonixx@gmail.com | sychonix  | 4840409F6222A17337339B415D9EA1B71374DEE97CC5A2BFDE7F2D2AC5EA8641  |
 | kgnodes |  https://kgnodes.xyz/ | https://x.com/kgnodes  | Europe  | https://github.com/kgnodes-val  | hello@kgnodes.xyz  | kgnodes  |  A1062688ED68046BDAC25DB32053FC49E9D31D1AEDECF970F504E020CF6B478E |
+| MIPEnode |   |https://x.com/MIPEnode  | Viet Nam  |  https://github.com/MIPEnode | anphat1686@gmail.com  |  mipenode_91470 |  E440A6465C80AFCF6AEB64F67202285CF07C34468919B03C363629BF438A910B |

@@ -89,4 +89,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 | AVIAONE.com 🟢 | https://aviaone.com | https://x.com/avia_one | France and Thailand | https://github.com/aviaone | atomone@aviaone.com | @aviaone and @community_aviaone | 190107B99A228CC167C866E48EE4C7143BD613FE138736907127D9EF5C9D3413 |
 | Sychonix  |  https://sychonix.com | https://twitter.com/sychonixx  | Indonesia  | https://github.com/sychonix  |  sychonixx@gmail.com | sychonix  | 4840409F6222A17337339B415D9EA1B71374DEE97CC5A2BFDE7F2D2AC5EA8641  |
 | kgnodes |  https://kgnodes.xyz/ | https://x.com/kgnodes  | Europe  | https://github.com/kgnodes-val  | hello@kgnodes.xyz  | kgnodes  |  A1062688ED68046BDAC25DB32053FC49E9D31D1AEDECF970F504E020CF6B478E |
+| MIPEnode |   |https://x.com/MIPEnode  | Viet Nam  |  https://github.com/MIPEnode | anphat1686@gmail.com  |  mipenode_91470 |  E440A6465C80AFCF6AEB64F67202285CF07C34468919B03C363629BF438A910B |
+| Oneiric Stake  | https://www.oneiricts.com | https://x.com/OneiricStake  | Hong Kong  | cougarmaster | admin@oneiricts.com | cougarmaster | A48C575037781F10242C9FA4034D251EF1D33F2ABC39DD9141F2DA5A44A56A42 |
+| TRACE™ |https://trace-tm.tech/|https://x.com/vovscorp|Indonesia|https://github.com/vovscorp13|trace.valoper@gmail.com|vovscorp,BitKot|7D5EFF5BA4DC5F03D7DF630A2995C017FD4146B491F6F0679A9D10370BA0A479|
 | KaLaMuC | https://www.kalamuc.xyz/ | https://x.com/sooneraydin | Finland | sooneraydin | soneraydin85@gmail.com | kalamuc | E4CD064383E202EF6DCB1DADB8431F7D581711E7FF2EE72D1AF8489D12A32AF7 |

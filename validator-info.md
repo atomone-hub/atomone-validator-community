@@ -96,3 +96,4 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 | KaLaMuC | https://www.kalamuc.xyz/ | https://x.com/sooneraydin | Finland | sooneraydin | soneraydin85@gmail.com | kalamuc | E4CD064383E202EF6DCB1DADB8431F7D581711E7FF2EE72D1AF8489D12A32AF7 |
 | bitszn \| valopers.com | https://bitszn.com/ | https://x.com/bitszn_com | Vietnam | alxnode | alx@bitszn.com | alxbitszn | https://atomone.valopers.com/transactions/D641244CF53F5B0827D4D5BD11B852B5CE70B9B61982AA8C9E60BA327259B6DD |
 | Crosnest  | https://cros-nest.com  | https://x.com/crosnest_com  | Europe (The Netherland) | crosnest, Galadrin  | chainmaster@cros-nest.com, dapie@cros-nest.com | galadrin_crosnest  | 3BCEC4728F451585DB0CD05FD672745DF2BEC13D9EDF0B7CE97B9A7BCB6B6374  |
+| IAmScRay | https://x.com/i_am_scray | https://x.com/i_am_scray | Ukraine | https://github.com/IAmScRay | iamscray@gmail.com | i_am_scray | 00CCC897BCA20165FA3B18111B31ACD70736EF4263C66418DD41E7BEDDA90094 |

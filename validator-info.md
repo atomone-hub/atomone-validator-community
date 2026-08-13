@@ -32,7 +32,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |  |  |  |  |  |  | cyberg |  |
 |  |  |  |  |  |  | write2sd |  |
 |  |  |  |  |  |  | posthuman_validator |  |
-| NyanCat | https://x.com/o___victor | https://x.com/o___victor | Ukraine | https://github.com/VictorOsipchuk | onemoment1760@gmail.com | nyancat007 | D0BB9A6894FFDEF32CB6FDC60FEC9535C19C15AAF3CF992B4A1D1E5206D7ECD1 |
+| NyanCat | https://nyan-cat.net | https://x.com/o___victor | Ukraine | https://github.com/VictorOsipchuk | nyancat.validator@gmail.com | nyancat007 | D0BB9A6894FFDEF32CB6FDC60FEC9535C19C15AAF3CF992B4A1D1E5206D7ECD1 |
 | GATA HUB | https://gatahub.zone | https://twitter.com/GataHubZone https://twitter.com/GataDaoZone | Germany UAE | JoveCosmos ABCharlieEth | jovecosmos@gmail.com gatadaozone@gmail.com | jovegatadao wassieofgata | E2FBBA2712037883BFCCCCA39D858E6C6F4D6764B433D4159816649AAC1B0CB8 |
 | Regenerator | https://regenerator.online | @Regenerator_ | UK | p3t3hill | contact@regenerator.online | pete_regenerator | 765498F2B00A5DDB34BAEB9D68D8130FC8B5F89905129F7AC2A5FC8B05A14295 |
 | Nodes Hub 🛡️ 100% Slash Protected 🛡️ | https://nodeshub.online | https://x.com/Nodes_Hub | India, Dubai, Singapore | https://github.com/NodesHub | contact@nodeshub.online | nodeshub | E8BD20CD829849348F5063AD68C7A7B94873E58C20AF56DF52AA58251BDC6D36 |

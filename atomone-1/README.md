@@ -19,9 +19,15 @@ To create your own genesis transaction (`gentx`) you will have to choose the fol
 
 The `commission-rate`, `commission-max-rate`, `commission-max-change-rate` are free to set to the value you want, this values are just for example, note that 0.05 is 5%.
 
+Validators who want to submit gentx with a new address can add an account with the following command: 
+```sh
+# Note : Only `1000000uatone` is allowed for adding genesis account.
+atomoned genesis add-genesis-account <your-key-name> 1000000uatone
+```
+
 ```sh
 # Create the gentx
-atomoned genesis gentx your-key-name 1000000uatone \
+atomoned genesis gentx <your-key-name> 1000000uatone \
   --node-id $(atomoned tendermint show-node-id) \
   --chain-id atomone-1 \
   --commission-rate 0.05 \

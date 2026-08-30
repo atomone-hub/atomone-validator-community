@@ -98,3 +98,4 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 | Crosnest  | https://cros-nest.com  | https://x.com/crosnest_com  | Europe (The Netherland) | crosnest, Galadrin  | chainmaster@cros-nest.com, dapie@cros-nest.com | galadrin_crosnest  | 3BCEC4728F451585DB0CD05FD672745DF2BEC13D9EDF0B7CE97B9A7BCB6B6374  |
 | IAmScRay | https://x.com/i_am_scray | https://x.com/i_am_scray | Ukraine | https://github.com/IAmScRay | iamscray@gmail.com | i_am_scray | 00CCC897BCA20165FA3B18111B31ACD70736EF4263C66418DD41E7BEDDA90094 |
 |[NODERS]|https://noders.team|https://twitter.com/NODERS_TEAM|Asia Singapore|noders-team|office@noders.team|nodersseptima|3BB665F6EB19400C76795D861A4615E8C1A7EBEA638A4A791EF73C25F72C2439|
+| Sr20de | https://sr20de.xyz | https://x.com/Sr20deValidator | Finland | https://github.com/Sr20dem | contact@sr20de.xyz| sr20dem| A139FCBC647F40A9AFDF9C9FB06F8CF935E5B90EAAE20A41B6285A84EFD8D6D4 |

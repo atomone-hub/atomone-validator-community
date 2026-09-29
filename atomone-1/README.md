@@ -28,8 +28,9 @@ atomoned genesis gentx your-key-name 1000000uatone \
   --commission-max-rate 0.1 \
   --commission-max-change-rate 0.05 \
   --min-self-delegation 1 \
+  --moniker "My validator"
   --website "https://foo.network" \
-  --details "My validator" \
+  --details "My validator description" \
   --identity "id-from-keybase" \
   --security-contact "security@foo.network"
 ```

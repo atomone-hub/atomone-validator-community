@@ -100,3 +100,4 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |[NODERS]|https://noders.team|https://twitter.com/NODERS_TEAM|Asia Singapore|noders-team|office@noders.team|nodersseptima|3BB665F6EB19400C76795D861A4615E8C1A7EBEA638A4A791EF73C25F72C2439|
 | Sr20de | https://sr20de.xyz | https://x.com/Sr20deValidator | Finland | https://github.com/Sr20dem | contact@sr20de.xyz| sr20dem| A139FCBC647F40A9AFDF9C9FB06F8CF935E5B90EAAE20A41B6285A84EFD8D6D4 |
 | pi69 | https://github.com/bozdemir52 | https://x.com/bozdemir5269 | Poland | https://github.com/bozdemir52 | bozdemir52@gmail.com | pi69 | DA7C343B3DD478F1E85D1CBD37E8018DC559221A78546640783DC60D0363D912 |
+| Xilodyne | https://xilodyne.com/staking.html  | N/A | USA | https://github.com/xilodyne | davis@xilodyne.com | Xilodyne Davis | 812058238333A1556D2BF35B268D3881E9874DAD56BE40CBB2C488FBEEFBB96E |
